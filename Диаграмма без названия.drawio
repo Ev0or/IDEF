@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T15:05:53.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0 (Edition Yx GX)" etag="weOBiI8OjAEUJg0jWoya" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T15:06:00.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0 (Edition Yx GX)" etag="yOUqQnXb_blGNvRxgqYT" version="20.7.4" type="github">
   <diagram id="OmgoiXetUjNexwZ1-d2X" name="Страница 2">
     <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YZ7Jb5GtQvPE0JwR_sXS-6" value="книги для подготовки&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="362" y="160" width="140" height="30" as="geometry" />
+          <mxGeometry x="354" y="160" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YZ7Jb5GtQvPE0JwR_sXS-7" value="Задачи экзамена" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="354" y="190" width="120" height="30" as="geometry" />
